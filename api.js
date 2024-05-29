@@ -17,3 +17,7 @@ fetch(url).then((resp) => resp.json()).then(dato => {
     })
 });
 }
+var Activador = 1
+if (Activador == 1){
+api_tecnologia();
+}
