@@ -1,0 +1,43 @@
+body{
+    background-image:  linear-gradient( rgb(107, 244, 61)20%, rgb(63 214 244) 100% );
+    margin: black solid 5px; 
+    font-family: 'Times New Roman', Times,;
+    flex-direction: column;
+  }
+  ul{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    font-size: 50px;
+    
+  }
+  button{
+    background-color: rgba(167, 234, 42, 0);
+    border: 0px;
+    font-size: 35px;
+    border-radius: 10px;
+    border: solid black 1px;
+  }
+  a{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid 5px black;
+  }
+  footer{
+    border: 0px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: solid black 1px;
+   }
+  .enlaces{
+   background-color: rgb(63 214 244)  ;
+    gap: 50px;
+    align-items: center;
+    background-size: 100px;
+    font-size: 20px;
+  }
